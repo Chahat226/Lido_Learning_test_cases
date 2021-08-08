@@ -1,0 +1,15 @@
+{
+    "baseUrl": "http://localhost:3000",
+    "env": {
+      "username": "jack",
+      "password": "",
+      "MAILSLURP_API_KEY": "your-mailslurp-api-key"
+    },
+
+    
+    "defaultCommandTimeout": 30000,
+    "responseTimeout": 30000,
+    "requestTimeout": 30000
+    
+
+}
